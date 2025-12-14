@@ -5,4 +5,5 @@ https://repo1.maven.org/maven2/org/json/json/20231013/json-20231013.jar
 * Click "Project Settings" and click "library"
 * Click the + button → choose "JARs or Directories"
 * Select the path for json-20231013.jar file (under lib dir locally in my submitted project)
-* Click "Apply"
+* Click "Apply" to save the settings
+* Also kindly set the output path if prompted

@@ -13,6 +13,8 @@ import javax.xml.transform.stream.StreamResult;
 //        * Click the + button → choose "JARs or Directories"
 //        * Select the path for json-20231013.jar file (under lib dir locally in my submitted project)
 //        * Click "Apply"
+
+// Also kindly set the output path if prompted
 import org.json.JSONArray;
 import org.json.JSONObject;
 
